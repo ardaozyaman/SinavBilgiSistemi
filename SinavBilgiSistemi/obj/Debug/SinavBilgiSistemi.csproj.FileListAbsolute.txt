@@ -1,0 +1,17 @@
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.Properties.Resources.resources
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.SinavForm.resources
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\bin\Debug\SinavBilgiSistemi.exe.config
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\bin\Debug\SinavBilgiSistemi.exe
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\bin\Debug\SinavBilgiSistemi.pdb
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.exe
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.pdb
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.MainForm.resources
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.OgrenciForm.resources
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.OgretmenForm.resources
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBil.AB0D6545.Up2Date
+C:\Users\ardao\OneDrive\Masaüstü\yl\final\oop\proje\SinavBilgiSistemi\SinavBilgiSistemi\obj\Debug\SinavBilgiSistemi.SonucForm.resources

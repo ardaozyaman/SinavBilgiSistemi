@@ -1,0 +1,23 @@
+{
+  "SinavID": 1,
+  "DersAdi": "a",
+  "Sure": 4,
+  "BaslamaTarihi": "2024-06-05T23:02:21.7853471+03:00",
+  "BitisTarihi": "2024-06-05T23:02:21.7853471+03:00",
+  "Sorular": [
+    {
+      "SoruID": "1",
+      "SinavID": null,
+      "SoruMetni": "a",
+      "Secenekler": [
+        "2",
+        "5",
+        "a",
+        "c"
+      ],
+      "DogruCevap": "2"
+    }
+  ],
+  "Ogrenciler": [],
+  "SoruSayisi": 1
+}
